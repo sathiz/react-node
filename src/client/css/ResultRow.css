@@ -1,0 +1,26 @@
+.component-result-row {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  height: 80px;
+  position: relative;
+  cursor: pointer;
+}
+
+.component-result-row:hover {
+  background-color: #eee;
+}
+
+.header-text {
+  font-size: 14px;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.job-level {
+  padding-right: 40px;
+}
+
+.job-location {
+  padding-right: 20px;
+}
